@@ -1,0 +1,1561 @@
+ref_date,geo,assets_and_debts,age,value
+1999,"Toronto, Ontario",Private pension assets,0,14221
+1999,"Toronto, Ontario",Private pension assets,1,29228
+1999,"Toronto, Ontario",Private pension assets,2,46482
+1999,"Toronto, Ontario",Private pension assets,3,50926
+1999,"Toronto, Ontario",Private pension assets,4,45125
+1999,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,9935
+1999,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,20010
+1999,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,27168
+1999,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,25310
+1999,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,18215
+1999,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),0,4286
+1999,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),1,9218
+1999,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),2,19314
+1999,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),3,25616
+1999,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),4,26910
+1999,"Toronto, Ontario","Financial assets, non pension",0,10494
+1999,"Toronto, Ontario","Financial assets, non pension",1,16851
+1999,"Toronto, Ontario","Financial assets, non pension",2,40834
+1999,"Toronto, Ontario","Financial assets, non pension",3,18873
+1999,"Toronto, Ontario","Financial assets, non pension",4,32879
+1999,"Toronto, Ontario",Deposits in financial institutions,0,5328
+1999,"Toronto, Ontario",Deposits in financial institutions,1,7243
+1999,"Toronto, Ontario",Deposits in financial institutions,2,8245
+1999,"Toronto, Ontario",Deposits in financial institutions,3,6192
+1999,"Toronto, Ontario",Deposits in financial institutions,4,13346
+1999,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",0,1532
+1999,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",1,2427
+1999,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",2,4204
+1999,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",3,5398
+1999,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",4,4618
+1999,"Toronto, Ontario",Stocks,0,2570
+1999,"Toronto, Ontario",Stocks,1,3531
+1999,"Toronto, Ontario",Stocks,2,19979
+1999,"Toronto, Ontario",Stocks,3,2695
+1999,"Toronto, Ontario",Stocks,4,11069
+1999,"Toronto, Ontario",Bonds (saving and other),0,NA
+1999,"Toronto, Ontario",Bonds (saving and other),1,1340
+1999,"Toronto, Ontario",Bonds (saving and other),2,1348
+1999,"Toronto, Ontario",Bonds (saving and other),3,2659
+1999,"Toronto, Ontario",Bonds (saving and other),4,2851
+1999,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),0,NA
+1999,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),1,NA
+1999,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),2,NA
+1999,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),3,NA
+1999,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),4,NA
+1999,"Toronto, Ontario",Other financial assets,0,837
+1999,"Toronto, Ontario",Other financial assets,1,2308
+1999,"Toronto, Ontario",Other financial assets,2,7058
+1999,"Toronto, Ontario",Other financial assets,3,1928
+1999,"Toronto, Ontario",Other financial assets,4,NA
+1999,"Toronto, Ontario",Non-financial assets,0,77637
+1999,"Toronto, Ontario",Non-financial assets,1,113180
+1999,"Toronto, Ontario",Non-financial assets,2,118759
+1999,"Toronto, Ontario",Non-financial assets,3,70650
+1999,"Toronto, Ontario",Non-financial assets,4,72997
+1999,"Toronto, Ontario",Principal residence,0,54768
+1999,"Toronto, Ontario",Principal residence,1,80172
+1999,"Toronto, Ontario",Principal residence,2,81691
+1999,"Toronto, Ontario",Principal residence,3,47963
+1999,"Toronto, Ontario",Principal residence,4,57064
+1999,"Toronto, Ontario",Other real estate,0,9179
+1999,"Toronto, Ontario",Other real estate,1,13859
+1999,"Toronto, Ontario",Other real estate,2,16864
+1999,"Toronto, Ontario",Other real estate,3,12875
+1999,"Toronto, Ontario",Other real estate,4,7509
+1999,"Toronto, Ontario",Vehicles,0,5131
+1999,"Toronto, Ontario",Vehicles,1,5963
+1999,"Toronto, Ontario",Vehicles,2,5226
+1999,"Toronto, Ontario",Vehicles,3,3056
+1999,"Toronto, Ontario",Vehicles,4,1810
+1999,"Toronto, Ontario",Other non-financial assets,0,8560
+1999,"Toronto, Ontario",Other non-financial assets,1,13186
+1999,"Toronto, Ontario",Other non-financial assets,2,14977
+1999,"Toronto, Ontario",Other non-financial assets,3,6757
+1999,"Toronto, Ontario",Other non-financial assets,4,6614
+1999,"Toronto, Ontario",Equity in business,0,8169
+1999,"Toronto, Ontario",Equity in business,1,16101
+1999,"Toronto, Ontario",Equity in business,2,16729
+1999,"Toronto, Ontario",Equity in business,3,14187
+1999,"Toronto, Ontario",Equity in business,4,2562
+1999,"Toronto, Ontario",Total debts,0,30861
+1999,"Toronto, Ontario",Total debts,1,39820
+1999,"Toronto, Ontario",Total debts,2,32407
+1999,"Toronto, Ontario",Total debts,3,9971
+1999,"Toronto, Ontario",Total debts,4,2818
+1999,"Toronto, Ontario",Mortgages,0,24825
+1999,"Toronto, Ontario",Mortgages,1,33243
+1999,"Toronto, Ontario",Mortgages,2,26034
+1999,"Toronto, Ontario",Mortgages,3,7102
+1999,"Toronto, Ontario",Mortgages,4,NA
+1999,"Toronto, Ontario",Mortgage on principal residence,0,23037
+1999,"Toronto, Ontario",Mortgage on principal residence,1,30661
+1999,"Toronto, Ontario",Mortgage on principal residence,2,20072
+1999,"Toronto, Ontario",Mortgage on principal residence,3,5406
+1999,"Toronto, Ontario",Mortgage on principal residence,4,NA
+1999,"Toronto, Ontario",Mortgage on other real estate,0,NA
+1999,"Toronto, Ontario",Mortgage on other real estate,1,NA
+1999,"Toronto, Ontario",Mortgage on other real estate,2,NA
+1999,"Toronto, Ontario",Mortgage on other real estate,3,NA
+1999,"Toronto, Ontario",Mortgage on other real estate,4,NA
+1999,"Toronto, Ontario",Line of credit,0,1199
+1999,"Toronto, Ontario",Line of credit,1,1682
+1999,"Toronto, Ontario",Line of credit,2,3000
+1999,"Toronto, Ontario",Line of credit,3,1135
+1999,"Toronto, Ontario",Line of credit,4,NA
+1999,"Toronto, Ontario",Credit card and installment debt,0,927
+1999,"Toronto, Ontario",Credit card and installment debt,1,1349
+1999,"Toronto, Ontario",Credit card and installment debt,2,642
+1999,"Toronto, Ontario",Credit card and installment debt,3,398
+1999,"Toronto, Ontario",Credit card and installment debt,4,174
+1999,"Toronto, Ontario",Student loans,0,2035
+1999,"Toronto, Ontario",Student loans,1,NA
+1999,"Toronto, Ontario",Student loans,2,841
+1999,"Toronto, Ontario",Student loans,3,NA
+1999,"Toronto, Ontario",Student loans,4,NA
+1999,"Toronto, Ontario",Vehicle loans,0,1488
+1999,"Toronto, Ontario",Vehicle loans,1,1414
+1999,"Toronto, Ontario",Vehicle loans,2,894
+1999,"Toronto, Ontario",Vehicle loans,3,NA
+1999,"Toronto, Ontario",Vehicle loans,4,NA
+1999,"Toronto, Ontario",Other debt,0,389
+1999,"Toronto, Ontario",Other debt,1,1498
+1999,"Toronto, Ontario",Other debt,2,995
+1999,"Toronto, Ontario",Other debt,3,NA
+1999,"Toronto, Ontario",Other debt,4,NA
+1999,"Toronto, Ontario",Net Worth (assets less debts),0,79660
+1999,"Toronto, Ontario",Net Worth (assets less debts),1,135540
+1999,"Toronto, Ontario",Net Worth (assets less debts),2,190397
+1999,"Toronto, Ontario",Net Worth (assets less debts),3,144665
+1999,"Toronto, Ontario",Net Worth (assets less debts),4,150745
+2005,"Toronto, Ontario",Private pension assets,0,17190
+2005,"Toronto, Ontario",Private pension assets,1,42285
+2005,"Toronto, Ontario",Private pension assets,2,80320
+2005,"Toronto, Ontario",Private pension assets,3,84425
+2005,"Toronto, Ontario",Private pension assets,4,76071
+2005,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,14848
+2005,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,25439
+2005,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,36958
+2005,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,30151
+2005,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,28477
+2005,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),0,NA
+2005,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),1,16846
+2005,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),2,43362
+2005,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),3,54274
+2005,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),4,47594
+2005,"Toronto, Ontario","Financial assets, non pension",0,13014
+2005,"Toronto, Ontario","Financial assets, non pension",1,14747
+2005,"Toronto, Ontario","Financial assets, non pension",2,27146
+2005,"Toronto, Ontario","Financial assets, non pension",3,36425
+2005,"Toronto, Ontario","Financial assets, non pension",4,38385
+2005,"Toronto, Ontario",Deposits in financial institutions,0,3885
+2005,"Toronto, Ontario",Deposits in financial institutions,1,4618
+2005,"Toronto, Ontario",Deposits in financial institutions,2,10136
+2005,"Toronto, Ontario",Deposits in financial institutions,3,16154
+2005,"Toronto, Ontario",Deposits in financial institutions,4,21622
+2005,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",0,NA
+2005,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",1,4935
+2005,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",2,6834
+2005,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",3,NA
+2005,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",4,6076
+2005,"Toronto, Ontario",Stocks,0,NA
+2005,"Toronto, Ontario",Stocks,1,1262
+2005,"Toronto, Ontario",Stocks,2,4814
+2005,"Toronto, Ontario",Stocks,3,4429
+2005,"Toronto, Ontario",Stocks,4,7541
+2005,"Toronto, Ontario",Bonds (saving and other),0,NA
+2005,"Toronto, Ontario",Bonds (saving and other),1,NA
+2005,"Toronto, Ontario",Bonds (saving and other),2,NA
+2005,"Toronto, Ontario",Bonds (saving and other),3,NA
+2005,"Toronto, Ontario",Bonds (saving and other),4,NA
+2005,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),0,NA
+2005,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),1,NA
+2005,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),2,NA
+2005,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),3,NA
+2005,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),4,NA
+2005,"Toronto, Ontario",Other financial assets,0,NA
+2005,"Toronto, Ontario",Other financial assets,1,3670
+2005,"Toronto, Ontario",Other financial assets,2,5064
+2005,"Toronto, Ontario",Other financial assets,3,NA
+2005,"Toronto, Ontario",Other financial assets,4,NA
+2005,"Toronto, Ontario",Non-financial assets,0,62468
+2005,"Toronto, Ontario",Non-financial assets,1,212930
+2005,"Toronto, Ontario",Non-financial assets,2,185935
+2005,"Toronto, Ontario",Non-financial assets,3,128920
+2005,"Toronto, Ontario",Non-financial assets,4,115389
+2005,"Toronto, Ontario",Principal residence,0,49615
+2005,"Toronto, Ontario",Principal residence,1,172656
+2005,"Toronto, Ontario",Principal residence,2,144053
+2005,"Toronto, Ontario",Principal residence,3,94432
+2005,"Toronto, Ontario",Principal residence,4,88915
+2005,"Toronto, Ontario",Other real estate,0,NA
+2005,"Toronto, Ontario",Other real estate,1,17877
+2005,"Toronto, Ontario",Other real estate,2,22302
+2005,"Toronto, Ontario",Other real estate,3,19929
+2005,"Toronto, Ontario",Other real estate,4,15349
+2005,"Toronto, Ontario",Vehicles,0,4628
+2005,"Toronto, Ontario",Vehicles,1,7584
+2005,"Toronto, Ontario",Vehicles,2,7613
+2005,"Toronto, Ontario",Vehicles,3,5374
+2005,"Toronto, Ontario",Vehicles,4,2659
+2005,"Toronto, Ontario",Other non-financial assets,0,6225
+2005,"Toronto, Ontario",Other non-financial assets,1,14813
+2005,"Toronto, Ontario",Other non-financial assets,2,11966
+2005,"Toronto, Ontario",Other non-financial assets,3,9185
+2005,"Toronto, Ontario",Other non-financial assets,4,8467
+2005,"Toronto, Ontario",Equity in business,0,NA
+2005,"Toronto, Ontario",Equity in business,1,40673
+2005,"Toronto, Ontario",Equity in business,2,15164
+2005,"Toronto, Ontario",Equity in business,3,36772
+2005,"Toronto, Ontario",Equity in business,4,NA
+2005,"Toronto, Ontario",Total debts,0,29455
+2005,"Toronto, Ontario",Total debts,1,89092
+2005,"Toronto, Ontario",Total debts,2,60928
+2005,"Toronto, Ontario",Total debts,3,23520
+2005,"Toronto, Ontario",Total debts,4,6274
+2005,"Toronto, Ontario",Mortgages,0,NA
+2005,"Toronto, Ontario",Mortgages,1,79398
+2005,"Toronto, Ontario",Mortgages,2,46866
+2005,"Toronto, Ontario",Mortgages,3,17107
+2005,"Toronto, Ontario",Mortgages,4,NA
+2005,"Toronto, Ontario",Mortgage on principal residence,0,NA
+2005,"Toronto, Ontario",Mortgage on principal residence,1,71933
+2005,"Toronto, Ontario",Mortgage on principal residence,2,41464
+2005,"Toronto, Ontario",Mortgage on principal residence,3,13246
+2005,"Toronto, Ontario",Mortgage on principal residence,4,NA
+2005,"Toronto, Ontario",Mortgage on other real estate,0,NA
+2005,"Toronto, Ontario",Mortgage on other real estate,1,NA
+2005,"Toronto, Ontario",Mortgage on other real estate,2,NA
+2005,"Toronto, Ontario",Mortgage on other real estate,3,NA
+2005,"Toronto, Ontario",Mortgage on other real estate,4,NA
+2005,"Toronto, Ontario",Line of credit,0,NA
+2005,"Toronto, Ontario",Line of credit,1,4105
+2005,"Toronto, Ontario",Line of credit,2,7666
+2005,"Toronto, Ontario",Line of credit,3,3773
+2005,"Toronto, Ontario",Line of credit,4,NA
+2005,"Toronto, Ontario",Credit card and installment debt,0,785
+2005,"Toronto, Ontario",Credit card and installment debt,1,2060
+2005,"Toronto, Ontario",Credit card and installment debt,2,1786
+2005,"Toronto, Ontario",Credit card and installment debt,3,1008
+2005,"Toronto, Ontario",Credit card and installment debt,4,NA
+2005,"Toronto, Ontario",Student loans,0,NA
+2005,"Toronto, Ontario",Student loans,1,NA
+2005,"Toronto, Ontario",Student loans,2,NA
+2005,"Toronto, Ontario",Student loans,3,NA
+2005,"Toronto, Ontario",Student loans,4,NA
+2005,"Toronto, Ontario",Vehicle loans,0,NA
+2005,"Toronto, Ontario",Vehicle loans,1,2048
+2005,"Toronto, Ontario",Vehicle loans,2,2754
+2005,"Toronto, Ontario",Vehicle loans,3,NA
+2005,"Toronto, Ontario",Vehicle loans,4,NA
+2005,"Toronto, Ontario",Other debt,0,NA
+2005,"Toronto, Ontario",Other debt,1,NA
+2005,"Toronto, Ontario",Other debt,2,NA
+2005,"Toronto, Ontario",Other debt,3,NA
+2005,"Toronto, Ontario",Other debt,4,NA
+2005,"Toronto, Ontario",Net Worth (assets less debts),0,64924
+2005,"Toronto, Ontario",Net Worth (assets less debts),1,221542
+2005,"Toronto, Ontario",Net Worth (assets less debts),2,247637
+2005,"Toronto, Ontario",Net Worth (assets less debts),3,263021
+2005,"Toronto, Ontario",Net Worth (assets less debts),4,237331
+2012,"Toronto, Ontario",Private pension assets,0,19774
+2012,"Toronto, Ontario",Private pension assets,1,42429
+2012,"Toronto, Ontario",Private pension assets,2,81968
+2012,"Toronto, Ontario",Private pension assets,3,121322
+2012,"Toronto, Ontario",Private pension assets,4,135287
+2012,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,11331
+2012,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,21246
+2012,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,43375
+2012,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,42724
+2012,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,67242
+2012,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),0,8444
+2012,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),1,21183
+2012,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),2,38593
+2012,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),3,78598
+2012,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),4,68045
+2012,"Toronto, Ontario","Financial assets, non pension",0,11822
+2012,"Toronto, Ontario","Financial assets, non pension",1,21705
+2012,"Toronto, Ontario","Financial assets, non pension",2,46895
+2012,"Toronto, Ontario","Financial assets, non pension",3,50513
+2012,"Toronto, Ontario","Financial assets, non pension",4,69068
+2012,"Toronto, Ontario",Deposits in financial institutions,0,3057
+2012,"Toronto, Ontario",Deposits in financial institutions,1,6253
+2012,"Toronto, Ontario",Deposits in financial institutions,2,13712
+2012,"Toronto, Ontario",Deposits in financial institutions,3,14710
+2012,"Toronto, Ontario",Deposits in financial institutions,4,20355
+2012,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",0,NA
+2012,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",1,NA
+2012,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",2,10656
+2012,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",3,10824
+2012,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",4,20101
+2012,"Toronto, Ontario",Stocks,0,NA
+2012,"Toronto, Ontario",Stocks,1,NA
+2012,"Toronto, Ontario",Stocks,2,NA
+2012,"Toronto, Ontario",Stocks,3,NA
+2012,"Toronto, Ontario",Stocks,4,16549
+2012,"Toronto, Ontario",Bonds (saving and other),0,NA
+2012,"Toronto, Ontario",Bonds (saving and other),1,NA
+2012,"Toronto, Ontario",Bonds (saving and other),2,NA
+2012,"Toronto, Ontario",Bonds (saving and other),3,NA
+2012,"Toronto, Ontario",Bonds (saving and other),4,NA
+2012,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),0,1017
+2012,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),1,1431
+2012,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),2,2705
+2012,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),3,2483
+2012,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),4,3111
+2012,"Toronto, Ontario",Other financial assets,0,NA
+2012,"Toronto, Ontario",Other financial assets,1,5331
+2012,"Toronto, Ontario",Other financial assets,2,7600
+2012,"Toronto, Ontario",Other financial assets,3,12252
+2012,"Toronto, Ontario",Other financial assets,4,NA
+2012,"Toronto, Ontario",Non-financial assets,0,108384
+2012,"Toronto, Ontario",Non-financial assets,1,225930
+2012,"Toronto, Ontario",Non-financial assets,2,282127
+2012,"Toronto, Ontario",Non-financial assets,3,188031
+2012,"Toronto, Ontario",Non-financial assets,4,178879
+2012,"Toronto, Ontario",Principal residence,0,81561
+2012,"Toronto, Ontario",Principal residence,1,176174
+2012,"Toronto, Ontario",Principal residence,2,218718
+2012,"Toronto, Ontario",Principal residence,3,149264
+2012,"Toronto, Ontario",Principal residence,4,138307
+2012,"Toronto, Ontario",Other real estate,0,NA
+2012,"Toronto, Ontario",Other real estate,1,31726
+2012,"Toronto, Ontario",Other real estate,2,41464
+2012,"Toronto, Ontario",Other real estate,3,26268
+2012,"Toronto, Ontario",Other real estate,4,29402
+2012,"Toronto, Ontario",Vehicles,0,4143
+2012,"Toronto, Ontario",Vehicles,1,8203
+2012,"Toronto, Ontario",Vehicles,2,9324
+2012,"Toronto, Ontario",Vehicles,3,5764
+2012,"Toronto, Ontario",Vehicles,4,4404
+2012,"Toronto, Ontario",Other non-financial assets,0,4004
+2012,"Toronto, Ontario",Other non-financial assets,1,9827
+2012,"Toronto, Ontario",Other non-financial assets,2,12621
+2012,"Toronto, Ontario",Other non-financial assets,3,6736
+2012,"Toronto, Ontario",Other non-financial assets,4,6766
+2012,"Toronto, Ontario",Equity in business,0,NA
+2012,"Toronto, Ontario",Equity in business,1,21818
+2012,"Toronto, Ontario",Equity in business,2,71020
+2012,"Toronto, Ontario",Equity in business,3,22962
+2012,"Toronto, Ontario",Equity in business,4,NA
+2012,"Toronto, Ontario",Total debts,0,48929
+2012,"Toronto, Ontario",Total debts,1,93692
+2012,"Toronto, Ontario",Total debts,2,75549
+2012,"Toronto, Ontario",Total debts,3,32493
+2012,"Toronto, Ontario",Total debts,4,13819
+2012,"Toronto, Ontario",Mortgages,0,41220
+2012,"Toronto, Ontario",Mortgages,1,79917
+2012,"Toronto, Ontario",Mortgages,2,60205
+2012,"Toronto, Ontario",Mortgages,3,24815
+2012,"Toronto, Ontario",Mortgages,4,NA
+2012,"Toronto, Ontario",Mortgage on principal residence,0,35007
+2012,"Toronto, Ontario",Mortgage on principal residence,1,71308
+2012,"Toronto, Ontario",Mortgage on principal residence,2,45377
+2012,"Toronto, Ontario",Mortgage on principal residence,3,20191
+2012,"Toronto, Ontario",Mortgage on principal residence,4,NA
+2012,"Toronto, Ontario",Mortgage on other real estate,0,NA
+2012,"Toronto, Ontario",Mortgage on other real estate,1,NA
+2012,"Toronto, Ontario",Mortgage on other real estate,2,NA
+2012,"Toronto, Ontario",Mortgage on other real estate,3,NA
+2012,"Toronto, Ontario",Mortgage on other real estate,4,NA
+2012,"Toronto, Ontario",Line of credit,0,NA
+2012,"Toronto, Ontario",Line of credit,1,6635
+2012,"Toronto, Ontario",Line of credit,2,9424
+2012,"Toronto, Ontario",Line of credit,3,3889
+2012,"Toronto, Ontario",Line of credit,4,6131
+2012,"Toronto, Ontario",Credit card and installment debt,0,1119
+2012,"Toronto, Ontario",Credit card and installment debt,1,1727
+2012,"Toronto, Ontario",Credit card and installment debt,2,2377
+2012,"Toronto, Ontario",Credit card and installment debt,3,1283
+2012,"Toronto, Ontario",Credit card and installment debt,4,NA
+2012,"Toronto, Ontario",Student loans,0,NA
+2012,"Toronto, Ontario",Student loans,1,NA
+2012,"Toronto, Ontario",Student loans,2,NA
+2012,"Toronto, Ontario",Student loans,3,NA
+2012,"Toronto, Ontario",Student loans,4,NA
+2012,"Toronto, Ontario",Vehicle loans,0,NA
+2012,"Toronto, Ontario",Vehicle loans,1,2702
+2012,"Toronto, Ontario",Vehicle loans,2,1677
+2012,"Toronto, Ontario",Vehicle loans,3,1189
+2012,"Toronto, Ontario",Vehicle loans,4,NA
+2012,"Toronto, Ontario",Other debt,0,NA
+2012,"Toronto, Ontario",Other debt,1,NA
+2012,"Toronto, Ontario",Other debt,2,NA
+2012,"Toronto, Ontario",Other debt,3,NA
+2012,"Toronto, Ontario",Other debt,4,NA
+2012,"Toronto, Ontario",Net Worth (assets less debts),0,99119
+2012,"Toronto, Ontario",Net Worth (assets less debts),1,218190
+2012,"Toronto, Ontario",Net Worth (assets less debts),2,406461
+2012,"Toronto, Ontario",Net Worth (assets less debts),3,350335
+2012,"Toronto, Ontario",Net Worth (assets less debts),4,371750
+2016,"Toronto, Ontario",Private pension assets,0,23778
+2016,"Toronto, Ontario",Private pension assets,1,44789
+2016,"Toronto, Ontario",Private pension assets,2,115385
+2016,"Toronto, Ontario",Private pension assets,3,168121
+2016,"Toronto, Ontario",Private pension assets,4,135708
+2016,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,12688
+2016,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,17923
+2016,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,44162
+2016,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,55523
+2016,"Toronto, Ontario","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,69450
+2016,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),0,11090
+2016,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),1,26866
+2016,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),2,71223
+2016,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),3,112598
+2016,"Toronto, Ontario",Employer-sponsored Registered Pension Plans (EPPs),4,66258
+2016,"Toronto, Ontario","Financial assets, non pension",0,23510
+2016,"Toronto, Ontario","Financial assets, non pension",1,23957
+2016,"Toronto, Ontario","Financial assets, non pension",2,46042
+2016,"Toronto, Ontario","Financial assets, non pension",3,80054
+2016,"Toronto, Ontario","Financial assets, non pension",4,105651
+2016,"Toronto, Ontario",Deposits in financial institutions,0,9894
+2016,"Toronto, Ontario",Deposits in financial institutions,1,8673
+2016,"Toronto, Ontario",Deposits in financial institutions,2,14978
+2016,"Toronto, Ontario",Deposits in financial institutions,3,15486
+2016,"Toronto, Ontario",Deposits in financial institutions,4,22526
+2016,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",0,NA
+2016,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",1,NA
+2016,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",2,10846
+2016,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",3,17315
+2016,"Toronto, Ontario","Mutual funds, investment funds  and income trusts",4,23898
+2016,"Toronto, Ontario",Stocks,0,NA
+2016,"Toronto, Ontario",Stocks,1,NA
+2016,"Toronto, Ontario",Stocks,2,4205
+2016,"Toronto, Ontario",Stocks,3,22487
+2016,"Toronto, Ontario",Stocks,4,38920
+2016,"Toronto, Ontario",Bonds (saving and other),0,NA
+2016,"Toronto, Ontario",Bonds (saving and other),1,NA
+2016,"Toronto, Ontario",Bonds (saving and other),2,NA
+2016,"Toronto, Ontario",Bonds (saving and other),3,NA
+2016,"Toronto, Ontario",Bonds (saving and other),4,NA
+2016,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),0,3070
+2016,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),1,3406
+2016,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),2,4652
+2016,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),3,5829
+2016,"Toronto, Ontario",Tax Free Saving Accounts (TFSA),4,8385
+2016,"Toronto, Ontario",Other financial assets,0,4959
+2016,"Toronto, Ontario",Other financial assets,1,3510
+2016,"Toronto, Ontario",Other financial assets,2,11150
+2016,"Toronto, Ontario",Other financial assets,3,14057
+2016,"Toronto, Ontario",Other financial assets,4,10855
+2016,"Toronto, Ontario",Non-financial assets,0,204591
+2016,"Toronto, Ontario",Non-financial assets,1,242407
+2016,"Toronto, Ontario",Non-financial assets,2,422382
+2016,"Toronto, Ontario",Non-financial assets,3,328607
+2016,"Toronto, Ontario",Non-financial assets,4,300620
+2016,"Toronto, Ontario",Principal residence,0,139114
+2016,"Toronto, Ontario",Principal residence,1,198059
+2016,"Toronto, Ontario",Principal residence,2,326693
+2016,"Toronto, Ontario",Principal residence,3,247555
+2016,"Toronto, Ontario",Principal residence,4,236609
+2016,"Toronto, Ontario",Other real estate,0,49078
+2016,"Toronto, Ontario",Other real estate,1,30966
+2016,"Toronto, Ontario",Other real estate,2,74383
+2016,"Toronto, Ontario",Other real estate,3,61316
+2016,"Toronto, Ontario",Other real estate,4,48097
+2016,"Toronto, Ontario",Vehicles,0,6560
+2016,"Toronto, Ontario",Vehicles,1,6697
+2016,"Toronto, Ontario",Vehicles,2,9738
+2016,"Toronto, Ontario",Vehicles,3,7504
+2016,"Toronto, Ontario",Vehicles,4,4475
+2016,"Toronto, Ontario",Other non-financial assets,0,9839
+2016,"Toronto, Ontario",Other non-financial assets,1,6684
+2016,"Toronto, Ontario",Other non-financial assets,2,11568
+2016,"Toronto, Ontario",Other non-financial assets,3,12232
+2016,"Toronto, Ontario",Other non-financial assets,4,11439
+2016,"Toronto, Ontario",Equity in business,0,12119
+2016,"Toronto, Ontario",Equity in business,1,13587
+2016,"Toronto, Ontario",Equity in business,2,41385
+2016,"Toronto, Ontario",Equity in business,3,27195
+2016,"Toronto, Ontario",Equity in business,4,19758
+2016,"Toronto, Ontario",Total debts,0,84278
+2016,"Toronto, Ontario",Total debts,1,97901
+2016,"Toronto, Ontario",Total debts,2,123609
+2016,"Toronto, Ontario",Total debts,3,67147
+2016,"Toronto, Ontario",Total debts,4,19991
+2016,"Toronto, Ontario",Mortgages,0,75023
+2016,"Toronto, Ontario",Mortgages,1,89675
+2016,"Toronto, Ontario",Mortgages,2,105311
+2016,"Toronto, Ontario",Mortgages,3,55019
+2016,"Toronto, Ontario",Mortgages,4,15097
+2016,"Toronto, Ontario",Mortgage on principal residence,0,61432
+2016,"Toronto, Ontario",Mortgage on principal residence,1,79390
+2016,"Toronto, Ontario",Mortgage on principal residence,2,83918
+2016,"Toronto, Ontario",Mortgage on principal residence,3,41941
+2016,"Toronto, Ontario",Mortgage on principal residence,4,11310
+2016,"Toronto, Ontario",Mortgage on other real estate,0,NA
+2016,"Toronto, Ontario",Mortgage on other real estate,1,NA
+2016,"Toronto, Ontario",Mortgage on other real estate,2,21393
+2016,"Toronto, Ontario",Mortgage on other real estate,3,13079
+2016,"Toronto, Ontario",Mortgage on other real estate,4,NA
+2016,"Toronto, Ontario",Line of credit,0,1673
+2016,"Toronto, Ontario",Line of credit,1,2961
+2016,"Toronto, Ontario",Line of credit,2,9271
+2016,"Toronto, Ontario",Line of credit,3,7280
+2016,"Toronto, Ontario",Line of credit,4,3345
+2016,"Toronto, Ontario",Credit card and installment debt,0,1168
+2016,"Toronto, Ontario",Credit card and installment debt,1,1574
+2016,"Toronto, Ontario",Credit card and installment debt,2,2356
+2016,"Toronto, Ontario",Credit card and installment debt,3,1855
+2016,"Toronto, Ontario",Credit card and installment debt,4,409
+2016,"Toronto, Ontario",Student loans,0,3988
+2016,"Toronto, Ontario",Student loans,1,NA
+2016,"Toronto, Ontario",Student loans,2,3268
+2016,"Toronto, Ontario",Student loans,3,1637
+2016,"Toronto, Ontario",Student loans,4,NA
+2016,"Toronto, Ontario",Vehicle loans,0,2009
+2016,"Toronto, Ontario",Vehicle loans,1,2544
+2016,"Toronto, Ontario",Vehicle loans,2,3073
+2016,"Toronto, Ontario",Vehicle loans,3,1129
+2016,"Toronto, Ontario",Vehicle loans,4,NA
+2016,"Toronto, Ontario",Other debt,0,NA
+2016,"Toronto, Ontario",Other debt,1,NA
+2016,"Toronto, Ontario",Other debt,2,NA
+2016,"Toronto, Ontario",Other debt,3,NA
+2016,"Toronto, Ontario",Other debt,4,NA
+2016,"Toronto, Ontario",Net Worth (assets less debts),0,179719
+2016,"Toronto, Ontario",Net Worth (assets less debts),1,226838
+2016,"Toronto, Ontario",Net Worth (assets less debts),2,501586
+2016,"Toronto, Ontario",Net Worth (assets less debts),3,536829
+2016,"Toronto, Ontario",Net Worth (assets less debts),4,541746
+1999,"Vancouver, British Columbia",Private pension assets,0,4183
+1999,"Vancouver, British Columbia",Private pension assets,1,12764
+1999,"Vancouver, British Columbia",Private pension assets,2,32101
+1999,"Vancouver, British Columbia",Private pension assets,3,24181
+1999,"Vancouver, British Columbia",Private pension assets,4,20358
+1999,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,2773
+1999,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,5581
+1999,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,16556
+1999,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,10834
+1999,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,9121
+1999,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),0,1410
+1999,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),1,7183
+1999,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),2,15545
+1999,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),3,13347
+1999,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),4,11237
+1999,"Vancouver, British Columbia","Financial assets, non pension",0,3979
+1999,"Vancouver, British Columbia","Financial assets, non pension",1,3920
+1999,"Vancouver, British Columbia","Financial assets, non pension",2,11011
+1999,"Vancouver, British Columbia","Financial assets, non pension",3,10943
+1999,"Vancouver, British Columbia","Financial assets, non pension",4,17599
+1999,"Vancouver, British Columbia",Deposits in financial institutions,0,1307
+1999,"Vancouver, British Columbia",Deposits in financial institutions,1,1832
+1999,"Vancouver, British Columbia",Deposits in financial institutions,2,2045
+1999,"Vancouver, British Columbia",Deposits in financial institutions,3,1874
+1999,"Vancouver, British Columbia",Deposits in financial institutions,4,7262
+1999,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",0,861
+1999,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",1,726
+1999,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",2,2874
+1999,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",3,1615
+1999,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",4,2328
+1999,"Vancouver, British Columbia",Stocks,0,759
+1999,"Vancouver, British Columbia",Stocks,1,612
+1999,"Vancouver, British Columbia",Stocks,2,3228
+1999,"Vancouver, British Columbia",Stocks,3,5018
+1999,"Vancouver, British Columbia",Stocks,4,5992
+1999,"Vancouver, British Columbia",Bonds (saving and other),0,NA
+1999,"Vancouver, British Columbia",Bonds (saving and other),1,122
+1999,"Vancouver, British Columbia",Bonds (saving and other),2,906
+1999,"Vancouver, British Columbia",Bonds (saving and other),3,412
+1999,"Vancouver, British Columbia",Bonds (saving and other),4,863
+1999,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),0,NA
+1999,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),1,NA
+1999,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),2,NA
+1999,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),3,NA
+1999,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),4,NA
+1999,"Vancouver, British Columbia",Other financial assets,0,985
+1999,"Vancouver, British Columbia",Other financial assets,1,628
+1999,"Vancouver, British Columbia",Other financial assets,2,1957
+1999,"Vancouver, British Columbia",Other financial assets,3,NA
+1999,"Vancouver, British Columbia",Other financial assets,4,NA
+1999,"Vancouver, British Columbia",Non-financial assets,0,31089
+1999,"Vancouver, British Columbia",Non-financial assets,1,56947
+1999,"Vancouver, British Columbia",Non-financial assets,2,73487
+1999,"Vancouver, British Columbia",Non-financial assets,3,41178
+1999,"Vancouver, British Columbia",Non-financial assets,4,39661
+1999,"Vancouver, British Columbia",Principal residence,0,19667
+1999,"Vancouver, British Columbia",Principal residence,1,41833
+1999,"Vancouver, British Columbia",Principal residence,2,52405
+1999,"Vancouver, British Columbia",Principal residence,3,26475
+1999,"Vancouver, British Columbia",Principal residence,4,31780
+1999,"Vancouver, British Columbia",Other real estate,0,NA
+1999,"Vancouver, British Columbia",Other real estate,1,6003
+1999,"Vancouver, British Columbia",Other real estate,2,10271
+1999,"Vancouver, British Columbia",Other real estate,3,8832
+1999,"Vancouver, British Columbia",Other real estate,4,3128
+1999,"Vancouver, British Columbia",Vehicles,0,2375
+1999,"Vancouver, British Columbia",Vehicles,1,3086
+1999,"Vancouver, British Columbia",Vehicles,2,3771
+1999,"Vancouver, British Columbia",Vehicles,3,1861
+1999,"Vancouver, British Columbia",Vehicles,4,1301
+1999,"Vancouver, British Columbia",Other non-financial assets,0,3211
+1999,"Vancouver, British Columbia",Other non-financial assets,1,6025
+1999,"Vancouver, British Columbia",Other non-financial assets,2,7039
+1999,"Vancouver, British Columbia",Other non-financial assets,3,4010
+1999,"Vancouver, British Columbia",Other non-financial assets,4,3452
+1999,"Vancouver, British Columbia",Equity in business,0,1953
+1999,"Vancouver, British Columbia",Equity in business,1,5844
+1999,"Vancouver, British Columbia",Equity in business,2,3943
+1999,"Vancouver, British Columbia",Equity in business,3,9299
+1999,"Vancouver, British Columbia",Equity in business,4,4774
+1999,"Vancouver, British Columbia",Total debts,0,14401
+1999,"Vancouver, British Columbia",Total debts,1,20426
+1999,"Vancouver, British Columbia",Total debts,2,22048
+1999,"Vancouver, British Columbia",Total debts,3,7273
+1999,"Vancouver, British Columbia",Total debts,4,1437
+1999,"Vancouver, British Columbia",Mortgages,0,11169
+1999,"Vancouver, British Columbia",Mortgages,1,17658
+1999,"Vancouver, British Columbia",Mortgages,2,17912
+1999,"Vancouver, British Columbia",Mortgages,3,6112
+1999,"Vancouver, British Columbia",Mortgages,4,NA
+1999,"Vancouver, British Columbia",Mortgage on principal residence,0,10286
+1999,"Vancouver, British Columbia",Mortgage on principal residence,1,15882
+1999,"Vancouver, British Columbia",Mortgage on principal residence,2,14698
+1999,"Vancouver, British Columbia",Mortgage on principal residence,3,4001
+1999,"Vancouver, British Columbia",Mortgage on principal residence,4,NA
+1999,"Vancouver, British Columbia",Mortgage on other real estate,0,NA
+1999,"Vancouver, British Columbia",Mortgage on other real estate,1,NA
+1999,"Vancouver, British Columbia",Mortgage on other real estate,2,NA
+1999,"Vancouver, British Columbia",Mortgage on other real estate,3,NA
+1999,"Vancouver, British Columbia",Mortgage on other real estate,4,NA
+1999,"Vancouver, British Columbia",Line of credit,0,908
+1999,"Vancouver, British Columbia",Line of credit,1,851
+1999,"Vancouver, British Columbia",Line of credit,2,2361
+1999,"Vancouver, British Columbia",Line of credit,3,630
+1999,"Vancouver, British Columbia",Line of credit,4,NA
+1999,"Vancouver, British Columbia",Credit card and installment debt,0,444
+1999,"Vancouver, British Columbia",Credit card and installment debt,1,513
+1999,"Vancouver, British Columbia",Credit card and installment debt,2,383
+1999,"Vancouver, British Columbia",Credit card and installment debt,3,285
+1999,"Vancouver, British Columbia",Credit card and installment debt,4,NA
+1999,"Vancouver, British Columbia",Student loans,0,812
+1999,"Vancouver, British Columbia",Student loans,1,NA
+1999,"Vancouver, British Columbia",Student loans,2,NA
+1999,"Vancouver, British Columbia",Student loans,3,NA
+1999,"Vancouver, British Columbia",Student loans,4,NA
+1999,"Vancouver, British Columbia",Vehicle loans,0,735
+1999,"Vancouver, British Columbia",Vehicle loans,1,557
+1999,"Vancouver, British Columbia",Vehicle loans,2,767
+1999,"Vancouver, British Columbia",Vehicle loans,3,NA
+1999,"Vancouver, British Columbia",Vehicle loans,4,NA
+1999,"Vancouver, British Columbia",Other debt,0,332
+1999,"Vancouver, British Columbia",Other debt,1,644
+1999,"Vancouver, British Columbia",Other debt,2,436
+1999,"Vancouver, British Columbia",Other debt,3,NA
+1999,"Vancouver, British Columbia",Other debt,4,NA
+1999,"Vancouver, British Columbia",Net Worth (assets less debts),0,26804
+1999,"Vancouver, British Columbia",Net Worth (assets less debts),1,59049
+1999,"Vancouver, British Columbia",Net Worth (assets less debts),2,98494
+1999,"Vancouver, British Columbia",Net Worth (assets less debts),3,78329
+1999,"Vancouver, British Columbia",Net Worth (assets less debts),4,80957
+2005,"Vancouver, British Columbia",Private pension assets,0,4748
+2005,"Vancouver, British Columbia",Private pension assets,1,24663
+2005,"Vancouver, British Columbia",Private pension assets,2,35481
+2005,"Vancouver, British Columbia",Private pension assets,3,27650
+2005,"Vancouver, British Columbia",Private pension assets,4,31913
+2005,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,3807
+2005,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,9315
+2005,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,18952
+2005,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,11086
+2005,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,16550
+2005,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),0,NA
+2005,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),1,15348
+2005,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),2,16529
+2005,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),3,NA
+2005,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),4,NA
+2005,"Vancouver, British Columbia","Financial assets, non pension",0,8770
+2005,"Vancouver, British Columbia","Financial assets, non pension",1,6834
+2005,"Vancouver, British Columbia","Financial assets, non pension",2,12516
+2005,"Vancouver, British Columbia","Financial assets, non pension",3,7299
+2005,"Vancouver, British Columbia","Financial assets, non pension",4,34484
+2005,"Vancouver, British Columbia",Deposits in financial institutions,0,5859
+2005,"Vancouver, British Columbia",Deposits in financial institutions,1,3198
+2005,"Vancouver, British Columbia",Deposits in financial institutions,2,5329
+2005,"Vancouver, British Columbia",Deposits in financial institutions,3,2143
+2005,"Vancouver, British Columbia",Deposits in financial institutions,4,10640
+2005,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",0,NA
+2005,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",1,NA
+2005,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",2,NA
+2005,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",3,NA
+2005,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",4,NA
+2005,"Vancouver, British Columbia",Stocks,0,NA
+2005,"Vancouver, British Columbia",Stocks,1,NA
+2005,"Vancouver, British Columbia",Stocks,2,NA
+2005,"Vancouver, British Columbia",Stocks,3,NA
+2005,"Vancouver, British Columbia",Stocks,4,NA
+2005,"Vancouver, British Columbia",Bonds (saving and other),0,NA
+2005,"Vancouver, British Columbia",Bonds (saving and other),1,NA
+2005,"Vancouver, British Columbia",Bonds (saving and other),2,NA
+2005,"Vancouver, British Columbia",Bonds (saving and other),3,NA
+2005,"Vancouver, British Columbia",Bonds (saving and other),4,NA
+2005,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),0,NA
+2005,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),1,NA
+2005,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),2,NA
+2005,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),3,NA
+2005,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),4,NA
+2005,"Vancouver, British Columbia",Other financial assets,0,NA
+2005,"Vancouver, British Columbia",Other financial assets,1,NA
+2005,"Vancouver, British Columbia",Other financial assets,2,NA
+2005,"Vancouver, British Columbia",Other financial assets,3,NA
+2005,"Vancouver, British Columbia",Other financial assets,4,NA
+2005,"Vancouver, British Columbia",Non-financial assets,0,53646
+2005,"Vancouver, British Columbia",Non-financial assets,1,75532
+2005,"Vancouver, British Columbia",Non-financial assets,2,91939
+2005,"Vancouver, British Columbia",Non-financial assets,3,55501
+2005,"Vancouver, British Columbia",Non-financial assets,4,95267
+2005,"Vancouver, British Columbia",Principal residence,0,38550
+2005,"Vancouver, British Columbia",Principal residence,1,52050
+2005,"Vancouver, British Columbia",Principal residence,2,70074
+2005,"Vancouver, British Columbia",Principal residence,3,42631
+2005,"Vancouver, British Columbia",Principal residence,4,68466
+2005,"Vancouver, British Columbia",Other real estate,0,NA
+2005,"Vancouver, British Columbia",Other real estate,1,NA
+2005,"Vancouver, British Columbia",Other real estate,2,NA
+2005,"Vancouver, British Columbia",Other real estate,3,NA
+2005,"Vancouver, British Columbia",Other real estate,4,NA
+2005,"Vancouver, British Columbia",Vehicles,0,3071
+2005,"Vancouver, British Columbia",Vehicles,1,3832
+2005,"Vancouver, British Columbia",Vehicles,2,3890
+2005,"Vancouver, British Columbia",Vehicles,3,1806
+2005,"Vancouver, British Columbia",Vehicles,4,2775
+2005,"Vancouver, British Columbia",Other non-financial assets,0,2671
+2005,"Vancouver, British Columbia",Other non-financial assets,1,4434
+2005,"Vancouver, British Columbia",Other non-financial assets,2,4077
+2005,"Vancouver, British Columbia",Other non-financial assets,3,3779
+2005,"Vancouver, British Columbia",Other non-financial assets,4,4750
+2005,"Vancouver, British Columbia",Equity in business,0,NA
+2005,"Vancouver, British Columbia",Equity in business,1,NA
+2005,"Vancouver, British Columbia",Equity in business,2,NA
+2005,"Vancouver, British Columbia",Equity in business,3,NA
+2005,"Vancouver, British Columbia",Equity in business,4,NA
+2005,"Vancouver, British Columbia",Total debts,0,23755
+2005,"Vancouver, British Columbia",Total debts,1,31204
+2005,"Vancouver, British Columbia",Total debts,2,17607
+2005,"Vancouver, British Columbia",Total debts,3,8736
+2005,"Vancouver, British Columbia",Total debts,4,NA
+2005,"Vancouver, British Columbia",Mortgages,0,19739
+2005,"Vancouver, British Columbia",Mortgages,1,28380
+2005,"Vancouver, British Columbia",Mortgages,2,14789
+2005,"Vancouver, British Columbia",Mortgages,3,NA
+2005,"Vancouver, British Columbia",Mortgages,4,NA
+2005,"Vancouver, British Columbia",Mortgage on principal residence,0,NA
+2005,"Vancouver, British Columbia",Mortgage on principal residence,1,20168
+2005,"Vancouver, British Columbia",Mortgage on principal residence,2,12181
+2005,"Vancouver, British Columbia",Mortgage on principal residence,3,NA
+2005,"Vancouver, British Columbia",Mortgage on principal residence,4,NA
+2005,"Vancouver, British Columbia",Mortgage on other real estate,0,NA
+2005,"Vancouver, British Columbia",Mortgage on other real estate,1,NA
+2005,"Vancouver, British Columbia",Mortgage on other real estate,2,NA
+2005,"Vancouver, British Columbia",Mortgage on other real estate,3,NA
+2005,"Vancouver, British Columbia",Mortgage on other real estate,4,NA
+2005,"Vancouver, British Columbia",Line of credit,0,NA
+2005,"Vancouver, British Columbia",Line of credit,1,NA
+2005,"Vancouver, British Columbia",Line of credit,2,NA
+2005,"Vancouver, British Columbia",Line of credit,3,NA
+2005,"Vancouver, British Columbia",Line of credit,4,NA
+2005,"Vancouver, British Columbia",Credit card and installment debt,0,376
+2005,"Vancouver, British Columbia",Credit card and installment debt,1,809
+2005,"Vancouver, British Columbia",Credit card and installment debt,2,NA
+2005,"Vancouver, British Columbia",Credit card and installment debt,3,NA
+2005,"Vancouver, British Columbia",Credit card and installment debt,4,NA
+2005,"Vancouver, British Columbia",Student loans,0,NA
+2005,"Vancouver, British Columbia",Student loans,1,NA
+2005,"Vancouver, British Columbia",Student loans,2,NA
+2005,"Vancouver, British Columbia",Student loans,3,NA
+2005,"Vancouver, British Columbia",Student loans,4,NA
+2005,"Vancouver, British Columbia",Vehicle loans,0,NA
+2005,"Vancouver, British Columbia",Vehicle loans,1,NA
+2005,"Vancouver, British Columbia",Vehicle loans,2,NA
+2005,"Vancouver, British Columbia",Vehicle loans,3,NA
+2005,"Vancouver, British Columbia",Vehicle loans,4,NA
+2005,"Vancouver, British Columbia",Other debt,0,NA
+2005,"Vancouver, British Columbia",Other debt,1,NA
+2005,"Vancouver, British Columbia",Other debt,2,NA
+2005,"Vancouver, British Columbia",Other debt,3,NA
+2005,"Vancouver, British Columbia",Other debt,4,NA
+2005,"Vancouver, British Columbia",Net Worth (assets less debts),0,44871
+2005,"Vancouver, British Columbia",Net Worth (assets less debts),1,99896
+2005,"Vancouver, British Columbia",Net Worth (assets less debts),2,163038
+2005,"Vancouver, British Columbia",Net Worth (assets less debts),3,86969
+2005,"Vancouver, British Columbia",Net Worth (assets less debts),4,158860
+2012,"Vancouver, British Columbia",Private pension assets,0,8612
+2012,"Vancouver, British Columbia",Private pension assets,1,28753
+2012,"Vancouver, British Columbia",Private pension assets,2,48188
+2012,"Vancouver, British Columbia",Private pension assets,3,60823
+2012,"Vancouver, British Columbia",Private pension assets,4,43209
+2012,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,3382
+2012,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,9936
+2012,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,21890
+2012,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,22663
+2012,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,15035
+2012,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),0,5230
+2012,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),1,18816
+2012,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),2,26299
+2012,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),3,38161
+2012,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),4,28174
+2012,"Vancouver, British Columbia","Financial assets, non pension",0,7092
+2012,"Vancouver, British Columbia","Financial assets, non pension",1,15225
+2012,"Vancouver, British Columbia","Financial assets, non pension",2,28283
+2012,"Vancouver, British Columbia","Financial assets, non pension",3,28584
+2012,"Vancouver, British Columbia","Financial assets, non pension",4,27220
+2012,"Vancouver, British Columbia",Deposits in financial institutions,0,3403
+2012,"Vancouver, British Columbia",Deposits in financial institutions,1,7653
+2012,"Vancouver, British Columbia",Deposits in financial institutions,2,7301
+2012,"Vancouver, British Columbia",Deposits in financial institutions,3,8477
+2012,"Vancouver, British Columbia",Deposits in financial institutions,4,10491
+2012,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",0,NA
+2012,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",1,NA
+2012,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",2,6961
+2012,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",3,10226
+2012,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",4,5275
+2012,"Vancouver, British Columbia",Stocks,0,NA
+2012,"Vancouver, British Columbia",Stocks,1,NA
+2012,"Vancouver, British Columbia",Stocks,2,5387
+2012,"Vancouver, British Columbia",Stocks,3,5233
+2012,"Vancouver, British Columbia",Stocks,4,7652
+2012,"Vancouver, British Columbia",Bonds (saving and other),0,NA
+2012,"Vancouver, British Columbia",Bonds (saving and other),1,NA
+2012,"Vancouver, British Columbia",Bonds (saving and other),2,NA
+2012,"Vancouver, British Columbia",Bonds (saving and other),3,NA
+2012,"Vancouver, British Columbia",Bonds (saving and other),4,NA
+2012,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),0,748
+2012,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),1,651
+2012,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),2,1237
+2012,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),3,1377
+2012,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),4,1210
+2012,"Vancouver, British Columbia",Other financial assets,0,1009
+2012,"Vancouver, British Columbia",Other financial assets,1,3504
+2012,"Vancouver, British Columbia",Other financial assets,2,6878
+2012,"Vancouver, British Columbia",Other financial assets,3,2964
+2012,"Vancouver, British Columbia",Other financial assets,4,2128
+2012,"Vancouver, British Columbia",Non-financial assets,0,68026
+2012,"Vancouver, British Columbia",Non-financial assets,1,157074
+2012,"Vancouver, British Columbia",Non-financial assets,2,163854
+2012,"Vancouver, British Columbia",Non-financial assets,3,121442
+2012,"Vancouver, British Columbia",Non-financial assets,4,116624
+2012,"Vancouver, British Columbia",Principal residence,0,48437
+2012,"Vancouver, British Columbia",Principal residence,1,105963
+2012,"Vancouver, British Columbia",Principal residence,2,112555
+2012,"Vancouver, British Columbia",Principal residence,3,92399
+2012,"Vancouver, British Columbia",Principal residence,4,85630
+2012,"Vancouver, British Columbia",Other real estate,0,NA
+2012,"Vancouver, British Columbia",Other real estate,1,40972
+2012,"Vancouver, British Columbia",Other real estate,2,42581
+2012,"Vancouver, British Columbia",Other real estate,3,19752
+2012,"Vancouver, British Columbia",Other real estate,4,25262
+2012,"Vancouver, British Columbia",Vehicles,0,2950
+2012,"Vancouver, British Columbia",Vehicles,1,4504
+2012,"Vancouver, British Columbia",Vehicles,2,3925
+2012,"Vancouver, British Columbia",Vehicles,3,3715
+2012,"Vancouver, British Columbia",Vehicles,4,2627
+2012,"Vancouver, British Columbia",Other non-financial assets,0,3613
+2012,"Vancouver, British Columbia",Other non-financial assets,1,5635
+2012,"Vancouver, British Columbia",Other non-financial assets,2,4793
+2012,"Vancouver, British Columbia",Other non-financial assets,3,5576
+2012,"Vancouver, British Columbia",Other non-financial assets,4,3104
+2012,"Vancouver, British Columbia",Equity in business,0,1951
+2012,"Vancouver, British Columbia",Equity in business,1,8874
+2012,"Vancouver, British Columbia",Equity in business,2,7474
+2012,"Vancouver, British Columbia",Equity in business,3,17669
+2012,"Vancouver, British Columbia",Equity in business,4,9295
+2012,"Vancouver, British Columbia",Total debts,0,27600
+2012,"Vancouver, British Columbia",Total debts,1,57807
+2012,"Vancouver, British Columbia",Total debts,2,37367
+2012,"Vancouver, British Columbia",Total debts,3,21755
+2012,"Vancouver, British Columbia",Total debts,4,9879
+2012,"Vancouver, British Columbia",Mortgages,0,21990
+2012,"Vancouver, British Columbia",Mortgages,1,51774
+2012,"Vancouver, British Columbia",Mortgages,2,31461
+2012,"Vancouver, British Columbia",Mortgages,3,16412
+2012,"Vancouver, British Columbia",Mortgages,4,NA
+2012,"Vancouver, British Columbia",Mortgage on principal residence,0,18312
+2012,"Vancouver, British Columbia",Mortgage on principal residence,1,43627
+2012,"Vancouver, British Columbia",Mortgage on principal residence,2,25661
+2012,"Vancouver, British Columbia",Mortgage on principal residence,3,13186
+2012,"Vancouver, British Columbia",Mortgage on principal residence,4,NA
+2012,"Vancouver, British Columbia",Mortgage on other real estate,0,NA
+2012,"Vancouver, British Columbia",Mortgage on other real estate,1,NA
+2012,"Vancouver, British Columbia",Mortgage on other real estate,2,5800
+2012,"Vancouver, British Columbia",Mortgage on other real estate,3,NA
+2012,"Vancouver, British Columbia",Mortgage on other real estate,4,NA
+2012,"Vancouver, British Columbia",Line of credit,0,1472
+2012,"Vancouver, British Columbia",Line of credit,1,3137
+2012,"Vancouver, British Columbia",Line of credit,2,3482
+2012,"Vancouver, British Columbia",Line of credit,3,3669
+2012,"Vancouver, British Columbia",Line of credit,4,NA
+2012,"Vancouver, British Columbia",Credit card and installment debt,0,632
+2012,"Vancouver, British Columbia",Credit card and installment debt,1,689
+2012,"Vancouver, British Columbia",Credit card and installment debt,2,619
+2012,"Vancouver, British Columbia",Credit card and installment debt,3,552
+2012,"Vancouver, British Columbia",Credit card and installment debt,4,NA
+2012,"Vancouver, British Columbia",Student loans,0,2240
+2012,"Vancouver, British Columbia",Student loans,1,NA
+2012,"Vancouver, British Columbia",Student loans,2,NA
+2012,"Vancouver, British Columbia",Student loans,3,NA
+2012,"Vancouver, British Columbia",Student loans,4,NA
+2012,"Vancouver, British Columbia",Vehicle loans,0,1070
+2012,"Vancouver, British Columbia",Vehicle loans,1,1523
+2012,"Vancouver, British Columbia",Vehicle loans,2,1112
+2012,"Vancouver, British Columbia",Vehicle loans,3,566
+2012,"Vancouver, British Columbia",Vehicle loans,4,NA
+2012,"Vancouver, British Columbia",Other debt,0,NA
+2012,"Vancouver, British Columbia",Other debt,1,NA
+2012,"Vancouver, British Columbia",Other debt,2,NA
+2012,"Vancouver, British Columbia",Other debt,3,NA
+2012,"Vancouver, British Columbia",Other debt,4,NA
+2012,"Vancouver, British Columbia",Net Worth (assets less debts),0,58081
+2012,"Vancouver, British Columbia",Net Worth (assets less debts),1,152119
+2012,"Vancouver, British Columbia",Net Worth (assets less debts),2,210432
+2012,"Vancouver, British Columbia",Net Worth (assets less debts),3,206764
+2012,"Vancouver, British Columbia",Net Worth (assets less debts),4,186469
+2016,"Vancouver, British Columbia",Private pension assets,0,10648
+2016,"Vancouver, British Columbia",Private pension assets,1,30382
+2016,"Vancouver, British Columbia",Private pension assets,2,62519
+2016,"Vancouver, British Columbia",Private pension assets,3,60556
+2016,"Vancouver, British Columbia",Private pension assets,4,68434
+2016,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,5590
+2016,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,13999
+2016,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,28246
+2016,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,20122
+2016,"Vancouver, British Columbia","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,35755
+2016,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),0,5058
+2016,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),1,16383
+2016,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),2,34273
+2016,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),3,40434
+2016,"Vancouver, British Columbia",Employer-sponsored Registered Pension Plans (EPPs),4,32678
+2016,"Vancouver, British Columbia","Financial assets, non pension",0,17812
+2016,"Vancouver, British Columbia","Financial assets, non pension",1,21319
+2016,"Vancouver, British Columbia","Financial assets, non pension",2,22038
+2016,"Vancouver, British Columbia","Financial assets, non pension",3,26348
+2016,"Vancouver, British Columbia","Financial assets, non pension",4,36423
+2016,"Vancouver, British Columbia",Deposits in financial institutions,0,7605
+2016,"Vancouver, British Columbia",Deposits in financial institutions,1,6693
+2016,"Vancouver, British Columbia",Deposits in financial institutions,2,7586
+2016,"Vancouver, British Columbia",Deposits in financial institutions,3,8295
+2016,"Vancouver, British Columbia",Deposits in financial institutions,4,9015
+2016,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",0,NA
+2016,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",1,NA
+2016,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",2,NA
+2016,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",3,9003
+2016,"Vancouver, British Columbia","Mutual funds, investment funds  and income trusts",4,14322
+2016,"Vancouver, British Columbia",Stocks,0,NA
+2016,"Vancouver, British Columbia",Stocks,1,NA
+2016,"Vancouver, British Columbia",Stocks,2,NA
+2016,"Vancouver, British Columbia",Stocks,3,NA
+2016,"Vancouver, British Columbia",Stocks,4,NA
+2016,"Vancouver, British Columbia",Bonds (saving and other),0,NA
+2016,"Vancouver, British Columbia",Bonds (saving and other),1,NA
+2016,"Vancouver, British Columbia",Bonds (saving and other),2,NA
+2016,"Vancouver, British Columbia",Bonds (saving and other),3,NA
+2016,"Vancouver, British Columbia",Bonds (saving and other),4,NA
+2016,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),0,2013
+2016,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),1,1910
+2016,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),2,2291
+2016,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),3,2410
+2016,"Vancouver, British Columbia",Tax Free Saving Accounts (TFSA),4,4374
+2016,"Vancouver, British Columbia",Other financial assets,0,7327
+2016,"Vancouver, British Columbia",Other financial assets,1,2327
+2016,"Vancouver, British Columbia",Other financial assets,2,4269
+2016,"Vancouver, British Columbia",Other financial assets,3,2877
+2016,"Vancouver, British Columbia",Other financial assets,4,NA
+2016,"Vancouver, British Columbia",Non-financial assets,0,92108
+2016,"Vancouver, British Columbia",Non-financial assets,1,139882
+2016,"Vancouver, British Columbia",Non-financial assets,2,249270
+2016,"Vancouver, British Columbia",Non-financial assets,3,177798
+2016,"Vancouver, British Columbia",Non-financial assets,4,171604
+2016,"Vancouver, British Columbia",Principal residence,0,55754
+2016,"Vancouver, British Columbia",Principal residence,1,110232
+2016,"Vancouver, British Columbia",Principal residence,2,186631
+2016,"Vancouver, British Columbia",Principal residence,3,116337
+2016,"Vancouver, British Columbia",Principal residence,4,147467
+2016,"Vancouver, British Columbia",Other real estate,0,NA
+2016,"Vancouver, British Columbia",Other real estate,1,23064
+2016,"Vancouver, British Columbia",Other real estate,2,52128
+2016,"Vancouver, British Columbia",Other real estate,3,52377
+2016,"Vancouver, British Columbia",Other real estate,4,16025
+2016,"Vancouver, British Columbia",Vehicles,0,2822
+2016,"Vancouver, British Columbia",Vehicles,1,3636
+2016,"Vancouver, British Columbia",Vehicles,2,4781
+2016,"Vancouver, British Columbia",Vehicles,3,3899
+2016,"Vancouver, British Columbia",Vehicles,4,3050
+2016,"Vancouver, British Columbia",Other non-financial assets,0,3253
+2016,"Vancouver, British Columbia",Other non-financial assets,1,2950
+2016,"Vancouver, British Columbia",Other non-financial assets,2,5730
+2016,"Vancouver, British Columbia",Other non-financial assets,3,5184
+2016,"Vancouver, British Columbia",Other non-financial assets,4,5062
+2016,"Vancouver, British Columbia",Equity in business,0,5781
+2016,"Vancouver, British Columbia",Equity in business,1,10051
+2016,"Vancouver, British Columbia",Equity in business,2,12448
+2016,"Vancouver, British Columbia",Equity in business,3,38599
+2016,"Vancouver, British Columbia",Equity in business,4,NA
+2016,"Vancouver, British Columbia",Total debts,0,33461
+2016,"Vancouver, British Columbia",Total debts,1,44229
+2016,"Vancouver, British Columbia",Total debts,2,62328
+2016,"Vancouver, British Columbia",Total debts,3,22955
+2016,"Vancouver, British Columbia",Total debts,4,9035
+2016,"Vancouver, British Columbia",Mortgages,0,27771
+2016,"Vancouver, British Columbia",Mortgages,1,39811
+2016,"Vancouver, British Columbia",Mortgages,2,54064
+2016,"Vancouver, British Columbia",Mortgages,3,19090
+2016,"Vancouver, British Columbia",Mortgages,4,NA
+2016,"Vancouver, British Columbia",Mortgage on principal residence,0,20548
+2016,"Vancouver, British Columbia",Mortgage on principal residence,1,35378
+2016,"Vancouver, British Columbia",Mortgage on principal residence,2,39371
+2016,"Vancouver, British Columbia",Mortgage on principal residence,3,10606
+2016,"Vancouver, British Columbia",Mortgage on principal residence,4,NA
+2016,"Vancouver, British Columbia",Mortgage on other real estate,0,NA
+2016,"Vancouver, British Columbia",Mortgage on other real estate,1,NA
+2016,"Vancouver, British Columbia",Mortgage on other real estate,2,NA
+2016,"Vancouver, British Columbia",Mortgage on other real estate,3,NA
+2016,"Vancouver, British Columbia",Mortgage on other real estate,4,NA
+2016,"Vancouver, British Columbia",Line of credit,0,NA
+2016,"Vancouver, British Columbia",Line of credit,1,2473
+2016,"Vancouver, British Columbia",Line of credit,2,5183
+2016,"Vancouver, British Columbia",Line of credit,3,2544
+2016,"Vancouver, British Columbia",Line of credit,4,NA
+2016,"Vancouver, British Columbia",Credit card and installment debt,0,648
+2016,"Vancouver, British Columbia",Credit card and installment debt,1,470
+2016,"Vancouver, British Columbia",Credit card and installment debt,2,834
+2016,"Vancouver, British Columbia",Credit card and installment debt,3,349
+2016,"Vancouver, British Columbia",Credit card and installment debt,4,NA
+2016,"Vancouver, British Columbia",Student loans,0,1349
+2016,"Vancouver, British Columbia",Student loans,1,NA
+2016,"Vancouver, British Columbia",Student loans,2,NA
+2016,"Vancouver, British Columbia",Student loans,3,NA
+2016,"Vancouver, British Columbia",Student loans,4,NA
+2016,"Vancouver, British Columbia",Vehicle loans,0,1257
+2016,"Vancouver, British Columbia",Vehicle loans,1,1176
+2016,"Vancouver, British Columbia",Vehicle loans,2,896
+2016,"Vancouver, British Columbia",Vehicle loans,3,521
+2016,"Vancouver, British Columbia",Vehicle loans,4,NA
+2016,"Vancouver, British Columbia",Other debt,0,NA
+2016,"Vancouver, British Columbia",Other debt,1,NA
+2016,"Vancouver, British Columbia",Other debt,2,NA
+2016,"Vancouver, British Columbia",Other debt,3,NA
+2016,"Vancouver, British Columbia",Other debt,4,NA
+2016,"Vancouver, British Columbia",Net Worth (assets less debts),0,92888
+2016,"Vancouver, British Columbia",Net Worth (assets less debts),1,157405
+2016,"Vancouver, British Columbia",Net Worth (assets less debts),2,283947
+2016,"Vancouver, British Columbia",Net Worth (assets less debts),3,280346
+2016,"Vancouver, British Columbia",Net Worth (assets less debts),4,271880
+1999,"Calgary, Alberta",Private pension assets,0,2449
+1999,"Calgary, Alberta",Private pension assets,1,7344
+1999,"Calgary, Alberta",Private pension assets,2,11551
+1999,"Calgary, Alberta",Private pension assets,3,9467
+1999,"Calgary, Alberta",Private pension assets,4,7242
+1999,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,1678
+1999,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,4637
+1999,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,7303
+1999,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,4187
+1999,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,2525
+1999,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),0,771
+1999,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),1,2707
+1999,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),2,4248
+1999,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),3,5279
+1999,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),4,4717
+1999,"Calgary, Alberta","Financial assets, non pension",0,2440
+1999,"Calgary, Alberta","Financial assets, non pension",1,4972
+1999,"Calgary, Alberta","Financial assets, non pension",2,5516
+1999,"Calgary, Alberta","Financial assets, non pension",3,2429
+1999,"Calgary, Alberta","Financial assets, non pension",4,5124
+1999,"Calgary, Alberta",Deposits in financial institutions,0,629
+1999,"Calgary, Alberta",Deposits in financial institutions,1,1368
+1999,"Calgary, Alberta",Deposits in financial institutions,2,1238
+1999,"Calgary, Alberta",Deposits in financial institutions,3,1196
+1999,"Calgary, Alberta",Deposits in financial institutions,4,2620
+1999,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",0,NA
+1999,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",1,826
+1999,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",2,698
+1999,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",3,NA
+1999,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",4,NA
+1999,"Calgary, Alberta",Stocks,0,1222
+1999,"Calgary, Alberta",Stocks,1,1470
+1999,"Calgary, Alberta",Stocks,2,1590
+1999,"Calgary, Alberta",Stocks,3,NA
+1999,"Calgary, Alberta",Stocks,4,1354
+1999,"Calgary, Alberta",Bonds (saving and other),0,NA
+1999,"Calgary, Alberta",Bonds (saving and other),1,NA
+1999,"Calgary, Alberta",Bonds (saving and other),2,531
+1999,"Calgary, Alberta",Bonds (saving and other),3,NA
+1999,"Calgary, Alberta",Bonds (saving and other),4,NA
+1999,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),0,NA
+1999,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),1,NA
+1999,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),2,NA
+1999,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),3,NA
+1999,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),4,NA
+1999,"Calgary, Alberta",Other financial assets,0,315
+1999,"Calgary, Alberta",Other financial assets,1,1265
+1999,"Calgary, Alberta",Other financial assets,2,1459
+1999,"Calgary, Alberta",Other financial assets,3,NA
+1999,"Calgary, Alberta",Other financial assets,4,NA
+1999,"Calgary, Alberta",Non-financial assets,0,14910
+1999,"Calgary, Alberta",Non-financial assets,1,24882
+1999,"Calgary, Alberta",Non-financial assets,2,19234
+1999,"Calgary, Alberta",Non-financial assets,3,9795
+1999,"Calgary, Alberta",Non-financial assets,4,8970
+1999,"Calgary, Alberta",Principal residence,0,9287
+1999,"Calgary, Alberta",Principal residence,1,16945
+1999,"Calgary, Alberta",Principal residence,2,13249
+1999,"Calgary, Alberta",Principal residence,3,7090
+1999,"Calgary, Alberta",Principal residence,4,6569
+1999,"Calgary, Alberta",Other real estate,0,NA
+1999,"Calgary, Alberta",Other real estate,1,2904
+1999,"Calgary, Alberta",Other real estate,2,2582
+1999,"Calgary, Alberta",Other real estate,3,NA
+1999,"Calgary, Alberta",Other real estate,4,NA
+1999,"Calgary, Alberta",Vehicles,0,1523
+1999,"Calgary, Alberta",Vehicles,1,1844
+1999,"Calgary, Alberta",Vehicles,2,1431
+1999,"Calgary, Alberta",Vehicles,3,585
+1999,"Calgary, Alberta",Vehicles,4,473
+1999,"Calgary, Alberta",Other non-financial assets,0,2275
+1999,"Calgary, Alberta",Other non-financial assets,1,3188
+1999,"Calgary, Alberta",Other non-financial assets,2,1973
+1999,"Calgary, Alberta",Other non-financial assets,3,708
+1999,"Calgary, Alberta",Other non-financial assets,4,1009
+1999,"Calgary, Alberta",Equity in business,0,989
+1999,"Calgary, Alberta",Equity in business,1,12582
+1999,"Calgary, Alberta",Equity in business,2,2577
+1999,"Calgary, Alberta",Equity in business,3,NA
+1999,"Calgary, Alberta",Equity in business,4,NA
+1999,"Calgary, Alberta",Total debts,0,7613
+1999,"Calgary, Alberta",Total debts,1,10407
+1999,"Calgary, Alberta",Total debts,2,5564
+1999,"Calgary, Alberta",Total debts,3,1606
+1999,"Calgary, Alberta",Total debts,4,NA
+1999,"Calgary, Alberta",Mortgages,0,6049
+1999,"Calgary, Alberta",Mortgages,1,8700
+1999,"Calgary, Alberta",Mortgages,2,4328
+1999,"Calgary, Alberta",Mortgages,3,NA
+1999,"Calgary, Alberta",Mortgages,4,NA
+1999,"Calgary, Alberta",Mortgage on principal residence,0,5708
+1999,"Calgary, Alberta",Mortgage on principal residence,1,7562
+1999,"Calgary, Alberta",Mortgage on principal residence,2,3581
+1999,"Calgary, Alberta",Mortgage on principal residence,3,NA
+1999,"Calgary, Alberta",Mortgage on principal residence,4,NA
+1999,"Calgary, Alberta",Mortgage on other real estate,0,NA
+1999,"Calgary, Alberta",Mortgage on other real estate,1,NA
+1999,"Calgary, Alberta",Mortgage on other real estate,2,NA
+1999,"Calgary, Alberta",Mortgage on other real estate,3,NA
+1999,"Calgary, Alberta",Mortgage on other real estate,4,NA
+1999,"Calgary, Alberta",Line of credit,0,261
+1999,"Calgary, Alberta",Line of credit,1,599
+1999,"Calgary, Alberta",Line of credit,2,550
+1999,"Calgary, Alberta",Line of credit,3,NA
+1999,"Calgary, Alberta",Line of credit,4,NA
+1999,"Calgary, Alberta",Credit card and installment debt,0,258
+1999,"Calgary, Alberta",Credit card and installment debt,1,303
+1999,"Calgary, Alberta",Credit card and installment debt,2,145
+1999,"Calgary, Alberta",Credit card and installment debt,3,NA
+1999,"Calgary, Alberta",Credit card and installment debt,4,NA
+1999,"Calgary, Alberta",Student loans,0,394
+1999,"Calgary, Alberta",Student loans,1,NA
+1999,"Calgary, Alberta",Student loans,2,NA
+1999,"Calgary, Alberta",Student loans,3,NA
+1999,"Calgary, Alberta",Student loans,4,NA
+1999,"Calgary, Alberta",Vehicle loans,0,451
+1999,"Calgary, Alberta",Vehicle loans,1,547
+1999,"Calgary, Alberta",Vehicle loans,2,315
+1999,"Calgary, Alberta",Vehicle loans,3,NA
+1999,"Calgary, Alberta",Vehicle loans,4,NA
+1999,"Calgary, Alberta",Other debt,0,199
+1999,"Calgary, Alberta",Other debt,1,NA
+1999,"Calgary, Alberta",Other debt,2,NA
+1999,"Calgary, Alberta",Other debt,3,NA
+1999,"Calgary, Alberta",Other debt,4,NA
+1999,"Calgary, Alberta",Net Worth (assets less debts),0,13175
+1999,"Calgary, Alberta",Net Worth (assets less debts),1,39373
+1999,"Calgary, Alberta",Net Worth (assets less debts),2,33314
+1999,"Calgary, Alberta",Net Worth (assets less debts),3,21760
+1999,"Calgary, Alberta",Net Worth (assets less debts),4,21867
+2005,"Calgary, Alberta",Private pension assets,0,NA
+2005,"Calgary, Alberta",Private pension assets,1,9411
+2005,"Calgary, Alberta",Private pension assets,2,17385
+2005,"Calgary, Alberta",Private pension assets,3,22258
+2005,"Calgary, Alberta",Private pension assets,4,14019
+2005,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,NA
+2005,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,7263
+2005,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,8876
+2005,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,8117
+2005,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,4232
+2005,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),0,NA
+2005,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),1,NA
+2005,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),2,NA
+2005,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),3,NA
+2005,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),4,NA
+2005,"Calgary, Alberta","Financial assets, non pension",0,1035
+2005,"Calgary, Alberta","Financial assets, non pension",1,13242
+2005,"Calgary, Alberta","Financial assets, non pension",2,10188
+2005,"Calgary, Alberta","Financial assets, non pension",3,7522
+2005,"Calgary, Alberta","Financial assets, non pension",4,5928
+2005,"Calgary, Alberta",Deposits in financial institutions,0,688
+2005,"Calgary, Alberta",Deposits in financial institutions,1,867
+2005,"Calgary, Alberta",Deposits in financial institutions,2,2586
+2005,"Calgary, Alberta",Deposits in financial institutions,3,1947
+2005,"Calgary, Alberta",Deposits in financial institutions,4,1209
+2005,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",0,NA
+2005,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",1,NA
+2005,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",2,NA
+2005,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",3,NA
+2005,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",4,NA
+2005,"Calgary, Alberta",Stocks,0,NA
+2005,"Calgary, Alberta",Stocks,1,NA
+2005,"Calgary, Alberta",Stocks,2,NA
+2005,"Calgary, Alberta",Stocks,3,NA
+2005,"Calgary, Alberta",Stocks,4,NA
+2005,"Calgary, Alberta",Bonds (saving and other),0,NA
+2005,"Calgary, Alberta",Bonds (saving and other),1,NA
+2005,"Calgary, Alberta",Bonds (saving and other),2,NA
+2005,"Calgary, Alberta",Bonds (saving and other),3,NA
+2005,"Calgary, Alberta",Bonds (saving and other),4,NA
+2005,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),0,NA
+2005,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),1,NA
+2005,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),2,NA
+2005,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),3,NA
+2005,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),4,NA
+2005,"Calgary, Alberta",Other financial assets,0,NA
+2005,"Calgary, Alberta",Other financial assets,1,NA
+2005,"Calgary, Alberta",Other financial assets,2,NA
+2005,"Calgary, Alberta",Other financial assets,3,NA
+2005,"Calgary, Alberta",Other financial assets,4,NA
+2005,"Calgary, Alberta",Non-financial assets,0,15704
+2005,"Calgary, Alberta",Non-financial assets,1,28031
+2005,"Calgary, Alberta",Non-financial assets,2,37303
+2005,"Calgary, Alberta",Non-financial assets,3,25505
+2005,"Calgary, Alberta",Non-financial assets,4,15999
+2005,"Calgary, Alberta",Principal residence,0,NA
+2005,"Calgary, Alberta",Principal residence,1,15810
+2005,"Calgary, Alberta",Principal residence,2,28819
+2005,"Calgary, Alberta",Principal residence,3,17379
+2005,"Calgary, Alberta",Principal residence,4,11287
+2005,"Calgary, Alberta",Other real estate,0,NA
+2005,"Calgary, Alberta",Other real estate,1,NA
+2005,"Calgary, Alberta",Other real estate,2,NA
+2005,"Calgary, Alberta",Other real estate,3,NA
+2005,"Calgary, Alberta",Other real estate,4,NA
+2005,"Calgary, Alberta",Vehicles,0,1357
+2005,"Calgary, Alberta",Vehicles,1,1956
+2005,"Calgary, Alberta",Vehicles,2,2369
+2005,"Calgary, Alberta",Vehicles,3,1205
+2005,"Calgary, Alberta",Vehicles,4,411
+2005,"Calgary, Alberta",Other non-financial assets,0,2030
+2005,"Calgary, Alberta",Other non-financial assets,1,2746
+2005,"Calgary, Alberta",Other non-financial assets,2,3190
+2005,"Calgary, Alberta",Other non-financial assets,3,2349
+2005,"Calgary, Alberta",Other non-financial assets,4,1210
+2005,"Calgary, Alberta",Equity in business,0,NA
+2005,"Calgary, Alberta",Equity in business,1,NA
+2005,"Calgary, Alberta",Equity in business,2,NA
+2005,"Calgary, Alberta",Equity in business,3,NA
+2005,"Calgary, Alberta",Equity in business,4,NA
+2005,"Calgary, Alberta",Total debts,0,8159
+2005,"Calgary, Alberta",Total debts,1,8096
+2005,"Calgary, Alberta",Total debts,2,10457
+2005,"Calgary, Alberta",Total debts,3,NA
+2005,"Calgary, Alberta",Total debts,4,NA
+2005,"Calgary, Alberta",Mortgages,0,NA
+2005,"Calgary, Alberta",Mortgages,1,NA
+2005,"Calgary, Alberta",Mortgages,2,8477
+2005,"Calgary, Alberta",Mortgages,3,NA
+2005,"Calgary, Alberta",Mortgages,4,NA
+2005,"Calgary, Alberta",Mortgage on principal residence,0,NA
+2005,"Calgary, Alberta",Mortgage on principal residence,1,NA
+2005,"Calgary, Alberta",Mortgage on principal residence,2,7826
+2005,"Calgary, Alberta",Mortgage on principal residence,3,NA
+2005,"Calgary, Alberta",Mortgage on principal residence,4,NA
+2005,"Calgary, Alberta",Mortgage on other real estate,0,NA
+2005,"Calgary, Alberta",Mortgage on other real estate,1,NA
+2005,"Calgary, Alberta",Mortgage on other real estate,2,NA
+2005,"Calgary, Alberta",Mortgage on other real estate,3,NA
+2005,"Calgary, Alberta",Mortgage on other real estate,4,NA
+2005,"Calgary, Alberta",Line of credit,0,NA
+2005,"Calgary, Alberta",Line of credit,1,NA
+2005,"Calgary, Alberta",Line of credit,2,NA
+2005,"Calgary, Alberta",Line of credit,3,NA
+2005,"Calgary, Alberta",Line of credit,4,NA
+2005,"Calgary, Alberta",Credit card and installment debt,0,NA
+2005,"Calgary, Alberta",Credit card and installment debt,1,NA
+2005,"Calgary, Alberta",Credit card and installment debt,2,NA
+2005,"Calgary, Alberta",Credit card and installment debt,3,NA
+2005,"Calgary, Alberta",Credit card and installment debt,4,NA
+2005,"Calgary, Alberta",Student loans,0,NA
+2005,"Calgary, Alberta",Student loans,1,NA
+2005,"Calgary, Alberta",Student loans,2,NA
+2005,"Calgary, Alberta",Student loans,3,NA
+2005,"Calgary, Alberta",Student loans,4,NA
+2005,"Calgary, Alberta",Vehicle loans,0,NA
+2005,"Calgary, Alberta",Vehicle loans,1,NA
+2005,"Calgary, Alberta",Vehicle loans,2,NA
+2005,"Calgary, Alberta",Vehicle loans,3,NA
+2005,"Calgary, Alberta",Vehicle loans,4,NA
+2005,"Calgary, Alberta",Other debt,0,NA
+2005,"Calgary, Alberta",Other debt,1,NA
+2005,"Calgary, Alberta",Other debt,2,NA
+2005,"Calgary, Alberta",Other debt,3,NA
+2005,"Calgary, Alberta",Other debt,4,NA
+2005,"Calgary, Alberta",Net Worth (assets less debts),0,10942
+2005,"Calgary, Alberta",Net Worth (assets less debts),1,44326
+2005,"Calgary, Alberta",Net Worth (assets less debts),2,56168
+2005,"Calgary, Alberta",Net Worth (assets less debts),3,56264
+2005,"Calgary, Alberta",Net Worth (assets less debts),4,36386
+2012,"Calgary, Alberta",Private pension assets,0,7473
+2012,"Calgary, Alberta",Private pension assets,1,12396
+2012,"Calgary, Alberta",Private pension assets,2,26575
+2012,"Calgary, Alberta",Private pension assets,3,27039
+2012,"Calgary, Alberta",Private pension assets,4,21212
+2012,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,3117
+2012,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,8321
+2012,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,14653
+2012,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,14697
+2012,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,13063
+2012,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),0,4356
+2012,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),1,4075
+2012,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),2,11922
+2012,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),3,12342
+2012,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),4,8149
+2012,"Calgary, Alberta","Financial assets, non pension",0,4203
+2012,"Calgary, Alberta","Financial assets, non pension",1,6042
+2012,"Calgary, Alberta","Financial assets, non pension",2,17896
+2012,"Calgary, Alberta","Financial assets, non pension",3,11212
+2012,"Calgary, Alberta","Financial assets, non pension",4,20024
+2012,"Calgary, Alberta",Deposits in financial institutions,0,1679
+2012,"Calgary, Alberta",Deposits in financial institutions,1,2489
+2012,"Calgary, Alberta",Deposits in financial institutions,2,3882
+2012,"Calgary, Alberta",Deposits in financial institutions,3,2756
+2012,"Calgary, Alberta",Deposits in financial institutions,4,4707
+2012,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",0,NA
+2012,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",1,NA
+2012,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",2,6875
+2012,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",3,NA
+2012,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",4,NA
+2012,"Calgary, Alberta",Stocks,0,NA
+2012,"Calgary, Alberta",Stocks,1,NA
+2012,"Calgary, Alberta",Stocks,2,2787
+2012,"Calgary, Alberta",Stocks,3,NA
+2012,"Calgary, Alberta",Stocks,4,NA
+2012,"Calgary, Alberta",Bonds (saving and other),0,NA
+2012,"Calgary, Alberta",Bonds (saving and other),1,NA
+2012,"Calgary, Alberta",Bonds (saving and other),2,NA
+2012,"Calgary, Alberta",Bonds (saving and other),3,NA
+2012,"Calgary, Alberta",Bonds (saving and other),4,NA
+2012,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),0,NA
+2012,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),1,NA
+2012,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),2,900
+2012,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),3,723
+2012,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),4,632
+2012,"Calgary, Alberta",Other financial assets,0,NA
+2012,"Calgary, Alberta",Other financial assets,1,1197
+2012,"Calgary, Alberta",Other financial assets,2,3341
+2012,"Calgary, Alberta",Other financial assets,3,2716
+2012,"Calgary, Alberta",Other financial assets,4,NA
+2012,"Calgary, Alberta",Non-financial assets,0,35636
+2012,"Calgary, Alberta",Non-financial assets,1,61020
+2012,"Calgary, Alberta",Non-financial assets,2,64945
+2012,"Calgary, Alberta",Non-financial assets,3,39734
+2012,"Calgary, Alberta",Non-financial assets,4,31883
+2012,"Calgary, Alberta",Principal residence,0,NA
+2012,"Calgary, Alberta",Principal residence,1,43282
+2012,"Calgary, Alberta",Principal residence,2,45640
+2012,"Calgary, Alberta",Principal residence,3,27970
+2012,"Calgary, Alberta",Principal residence,4,22997
+2012,"Calgary, Alberta",Other real estate,0,NA
+2012,"Calgary, Alberta",Other real estate,1,NA
+2012,"Calgary, Alberta",Other real estate,2,11892
+2012,"Calgary, Alberta",Other real estate,3,7391
+2012,"Calgary, Alberta",Other real estate,4,NA
+2012,"Calgary, Alberta",Vehicles,0,2555
+2012,"Calgary, Alberta",Vehicles,1,3324
+2012,"Calgary, Alberta",Vehicles,2,2662
+2012,"Calgary, Alberta",Vehicles,3,1852
+2012,"Calgary, Alberta",Vehicles,4,1069
+2012,"Calgary, Alberta",Other non-financial assets,0,3416
+2012,"Calgary, Alberta",Other non-financial assets,1,3578
+2012,"Calgary, Alberta",Other non-financial assets,2,4751
+2012,"Calgary, Alberta",Other non-financial assets,3,2521
+2012,"Calgary, Alberta",Other non-financial assets,4,2234
+2012,"Calgary, Alberta",Equity in business,0,NA
+2012,"Calgary, Alberta",Equity in business,1,NA
+2012,"Calgary, Alberta",Equity in business,2,5320
+2012,"Calgary, Alberta",Equity in business,3,2898
+2012,"Calgary, Alberta",Equity in business,4,NA
+2012,"Calgary, Alberta",Total debts,0,19607
+2012,"Calgary, Alberta",Total debts,1,30337
+2012,"Calgary, Alberta",Total debts,2,23165
+2012,"Calgary, Alberta",Total debts,3,8970
+2012,"Calgary, Alberta",Total debts,4,NA
+2012,"Calgary, Alberta",Mortgages,0,NA
+2012,"Calgary, Alberta",Mortgages,1,25542
+2012,"Calgary, Alberta",Mortgages,2,17534
+2012,"Calgary, Alberta",Mortgages,3,6538
+2012,"Calgary, Alberta",Mortgages,4,NA
+2012,"Calgary, Alberta",Mortgage on principal residence,0,NA
+2012,"Calgary, Alberta",Mortgage on principal residence,1,21790
+2012,"Calgary, Alberta",Mortgage on principal residence,2,13562
+2012,"Calgary, Alberta",Mortgage on principal residence,3,NA
+2012,"Calgary, Alberta",Mortgage on principal residence,4,NA
+2012,"Calgary, Alberta",Mortgage on other real estate,0,NA
+2012,"Calgary, Alberta",Mortgage on other real estate,1,NA
+2012,"Calgary, Alberta",Mortgage on other real estate,2,NA
+2012,"Calgary, Alberta",Mortgage on other real estate,3,NA
+2012,"Calgary, Alberta",Mortgage on other real estate,4,NA
+2012,"Calgary, Alberta",Line of credit,0,NA
+2012,"Calgary, Alberta",Line of credit,1,NA
+2012,"Calgary, Alberta",Line of credit,2,4217
+2012,"Calgary, Alberta",Line of credit,3,1926
+2012,"Calgary, Alberta",Line of credit,4,NA
+2012,"Calgary, Alberta",Credit card and installment debt,0,466
+2012,"Calgary, Alberta",Credit card and installment debt,1,NA
+2012,"Calgary, Alberta",Credit card and installment debt,2,369
+2012,"Calgary, Alberta",Credit card and installment debt,3,NA
+2012,"Calgary, Alberta",Credit card and installment debt,4,NA
+2012,"Calgary, Alberta",Student loans,0,NA
+2012,"Calgary, Alberta",Student loans,1,NA
+2012,"Calgary, Alberta",Student loans,2,NA
+2012,"Calgary, Alberta",Student loans,3,NA
+2012,"Calgary, Alberta",Student loans,4,NA
+2012,"Calgary, Alberta",Vehicle loans,0,NA
+2012,"Calgary, Alberta",Vehicle loans,1,NA
+2012,"Calgary, Alberta",Vehicle loans,2,NA
+2012,"Calgary, Alberta",Vehicle loans,3,NA
+2012,"Calgary, Alberta",Vehicle loans,4,NA
+2012,"Calgary, Alberta",Other debt,0,NA
+2012,"Calgary, Alberta",Other debt,1,NA
+2012,"Calgary, Alberta",Other debt,2,NA
+2012,"Calgary, Alberta",Other debt,3,NA
+2012,"Calgary, Alberta",Other debt,4,NA
+2012,"Calgary, Alberta",Net Worth (assets less debts),0,30507
+2012,"Calgary, Alberta",Net Worth (assets less debts),1,59115
+2012,"Calgary, Alberta",Net Worth (assets less debts),2,91571
+2012,"Calgary, Alberta",Net Worth (assets less debts),3,71912
+2012,"Calgary, Alberta",Net Worth (assets less debts),4,75043
+2016,"Calgary, Alberta",Private pension assets,0,9430
+2016,"Calgary, Alberta",Private pension assets,1,20965
+2016,"Calgary, Alberta",Private pension assets,2,28096
+2016,"Calgary, Alberta",Private pension assets,3,44638
+2016,"Calgary, Alberta",Private pension assets,4,31460
+2016,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",0,4007
+2016,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",1,9591
+2016,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",2,14917
+2016,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",3,25102
+2016,"Calgary, Alberta","Registered Retirement Savings Plans (RRSPs), Registered Retirement Income Funds (RRIFs), Locked-in Retirement Accounts (LIRAs) and other",4,16828
+2016,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),0,5424
+2016,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),1,11374
+2016,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),2,13178
+2016,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),3,19536
+2016,"Calgary, Alberta",Employer-sponsored Registered Pension Plans (EPPs),4,14632
+2016,"Calgary, Alberta","Financial assets, non pension",0,5290
+2016,"Calgary, Alberta","Financial assets, non pension",1,12563
+2016,"Calgary, Alberta","Financial assets, non pension",2,12692
+2016,"Calgary, Alberta","Financial assets, non pension",3,65001
+2016,"Calgary, Alberta","Financial assets, non pension",4,32905
+2016,"Calgary, Alberta",Deposits in financial institutions,0,1751
+2016,"Calgary, Alberta",Deposits in financial institutions,1,2189
+2016,"Calgary, Alberta",Deposits in financial institutions,2,3236
+2016,"Calgary, Alberta",Deposits in financial institutions,3,12881
+2016,"Calgary, Alberta",Deposits in financial institutions,4,4738
+2016,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",0,NA
+2016,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",1,NA
+2016,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",2,NA
+2016,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",3,NA
+2016,"Calgary, Alberta","Mutual funds, investment funds  and income trusts",4,NA
+2016,"Calgary, Alberta",Stocks,0,NA
+2016,"Calgary, Alberta",Stocks,1,NA
+2016,"Calgary, Alberta",Stocks,2,NA
+2016,"Calgary, Alberta",Stocks,3,NA
+2016,"Calgary, Alberta",Stocks,4,NA
+2016,"Calgary, Alberta",Bonds (saving and other),0,NA
+2016,"Calgary, Alberta",Bonds (saving and other),1,NA
+2016,"Calgary, Alberta",Bonds (saving and other),2,NA
+2016,"Calgary, Alberta",Bonds (saving and other),3,NA
+2016,"Calgary, Alberta",Bonds (saving and other),4,NA
+2016,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),0,1318
+2016,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),1,1400
+2016,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),2,1272
+2016,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),3,1517
+2016,"Calgary, Alberta",Tax Free Saving Accounts (TFSA),4,1917
+2016,"Calgary, Alberta",Other financial assets,0,NA
+2016,"Calgary, Alberta",Other financial assets,1,3135
+2016,"Calgary, Alberta",Other financial assets,2,2317
+2016,"Calgary, Alberta",Other financial assets,3,11186
+2016,"Calgary, Alberta",Other financial assets,4,NA
+2016,"Calgary, Alberta",Non-financial assets,0,38901
+2016,"Calgary, Alberta",Non-financial assets,1,81834
+2016,"Calgary, Alberta",Non-financial assets,2,64125
+2016,"Calgary, Alberta",Non-financial assets,3,69820
+2016,"Calgary, Alberta",Non-financial assets,4,68217
+2016,"Calgary, Alberta",Principal residence,0,29478
+2016,"Calgary, Alberta",Principal residence,1,55712
+2016,"Calgary, Alberta",Principal residence,2,44560
+2016,"Calgary, Alberta",Principal residence,3,45150
+2016,"Calgary, Alberta",Principal residence,4,34270
+2016,"Calgary, Alberta",Other real estate,0,NA
+2016,"Calgary, Alberta",Other real estate,1,NA
+2016,"Calgary, Alberta",Other real estate,2,13724
+2016,"Calgary, Alberta",Other real estate,3,17317
+2016,"Calgary, Alberta",Other real estate,4,29829
+2016,"Calgary, Alberta",Vehicles,0,2773
+2016,"Calgary, Alberta",Vehicles,1,5066
+2016,"Calgary, Alberta",Vehicles,2,2931
+2016,"Calgary, Alberta",Vehicles,3,2811
+2016,"Calgary, Alberta",Vehicles,4,1549
+2016,"Calgary, Alberta",Other non-financial assets,0,2395
+2016,"Calgary, Alberta",Other non-financial assets,1,5621
+2016,"Calgary, Alberta",Other non-financial assets,2,2911
+2016,"Calgary, Alberta",Other non-financial assets,3,4542
+2016,"Calgary, Alberta",Other non-financial assets,4,2568
+2016,"Calgary, Alberta",Equity in business,0,NA
+2016,"Calgary, Alberta",Equity in business,1,10287
+2016,"Calgary, Alberta",Equity in business,2,NA
+2016,"Calgary, Alberta",Equity in business,3,5036
+2016,"Calgary, Alberta",Equity in business,4,NA
+2016,"Calgary, Alberta",Total debts,0,21661
+2016,"Calgary, Alberta",Total debts,1,37116
+2016,"Calgary, Alberta",Total debts,2,23502
+2016,"Calgary, Alberta",Total debts,3,20322
+2016,"Calgary, Alberta",Total debts,4,12505
+2016,"Calgary, Alberta",Mortgages,0,18878
+2016,"Calgary, Alberta",Mortgages,1,33106
+2016,"Calgary, Alberta",Mortgages,2,18960
+2016,"Calgary, Alberta",Mortgages,3,15005
+2016,"Calgary, Alberta",Mortgages,4,NA
+2016,"Calgary, Alberta",Mortgage on principal residence,0,16446
+2016,"Calgary, Alberta",Mortgage on principal residence,1,26571
+2016,"Calgary, Alberta",Mortgage on principal residence,2,14304
+2016,"Calgary, Alberta",Mortgage on principal residence,3,9257
+2016,"Calgary, Alberta",Mortgage on principal residence,4,NA
+2016,"Calgary, Alberta",Mortgage on other real estate,0,NA
+2016,"Calgary, Alberta",Mortgage on other real estate,1,NA
+2016,"Calgary, Alberta",Mortgage on other real estate,2,NA
+2016,"Calgary, Alberta",Mortgage on other real estate,3,NA
+2016,"Calgary, Alberta",Mortgage on other real estate,4,NA
+2016,"Calgary, Alberta",Line of credit,0,NA
+2016,"Calgary, Alberta",Line of credit,1,1544
+2016,"Calgary, Alberta",Line of credit,2,2467
+2016,"Calgary, Alberta",Line of credit,3,3271
+2016,"Calgary, Alberta",Line of credit,4,NA
+2016,"Calgary, Alberta",Credit card and installment debt,0,275
+2016,"Calgary, Alberta",Credit card and installment debt,1,545
+2016,"Calgary, Alberta",Credit card and installment debt,2,541
+2016,"Calgary, Alberta",Credit card and installment debt,3,NA
+2016,"Calgary, Alberta",Credit card and installment debt,4,NA
+2016,"Calgary, Alberta",Student loans,0,563
+2016,"Calgary, Alberta",Student loans,1,NA
+2016,"Calgary, Alberta",Student loans,2,NA
+2016,"Calgary, Alberta",Student loans,3,NA
+2016,"Calgary, Alberta",Student loans,4,NA
+2016,"Calgary, Alberta",Vehicle loans,0,1244
+2016,"Calgary, Alberta",Vehicle loans,1,1274
+2016,"Calgary, Alberta",Vehicle loans,2,751
+2016,"Calgary, Alberta",Vehicle loans,3,NA
+2016,"Calgary, Alberta",Vehicle loans,4,NA
+2016,"Calgary, Alberta",Other debt,0,NA
+2016,"Calgary, Alberta",Other debt,1,NA
+2016,"Calgary, Alberta",Other debt,2,NA
+2016,"Calgary, Alberta",Other debt,3,NA
+2016,"Calgary, Alberta",Other debt,4,NA
+2016,"Calgary, Alberta",Net Worth (assets less debts),0,32867
+2016,"Calgary, Alberta",Net Worth (assets less debts),1,88533
+2016,"Calgary, Alberta",Net Worth (assets less debts),2,86105
+2016,"Calgary, Alberta",Net Worth (assets less debts),3,164172
+2016,"Calgary, Alberta",Net Worth (assets less debts),4,122652
